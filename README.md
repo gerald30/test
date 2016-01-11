@@ -1,2 +1,3 @@
-# test
-gethub tutorial
+test
+
+gethub tutorial is repositoryfor showing the bar etc.
